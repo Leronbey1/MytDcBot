@@ -16,8 +16,7 @@
 
 # Heroku'da Clonlamak
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/01-Meyitzade-01/TgEglenceBot)
-
+[ ! [Dağıt] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy?template=https://github.com/Leronbey1/TgEglenceBot
 ## Alanları Doldurma
 * ``BOT_TOKEN``: Botunuzun tokeni t.me/botfather alınız!
 * ``OWNER_API_ID``: Sizin api id'niz http://my.telegram.org/ alınız!
